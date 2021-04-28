@@ -1,5 +1,3 @@
-# chirakshashetty.github.io
-WEB-DEV BOOTCAMP SHAPEAI
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
